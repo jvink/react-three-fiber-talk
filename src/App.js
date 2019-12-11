@@ -1,11 +1,7 @@
 import React from 'react';
 
-function App() {
+export default () => {
   return (
-    <div>
-      
-    </div>
+    <h1>Welkom bij deze talk!</h1>
   );
-}
-
-export default App;
+};
